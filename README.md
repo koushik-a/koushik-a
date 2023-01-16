@@ -2,7 +2,7 @@
 - 👀 I’m interested in drones and iot projects
 - 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on drone projects
-- 📫 How to reach me saikoushik.a@gmail.com
+- 📫 How to reach me 
 
 <!---
 koushik-a/koushik-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
